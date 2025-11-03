@@ -23,3 +23,4 @@ def find_period(L0, L1):
     
     return T0, T1
 
+
